@@ -1,2 +1,1 @@
-# umd-cmsc131-processing
-2018
+# Object-Oriented Programming I ([Processing](https://processing.org/))
